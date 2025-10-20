@@ -76,7 +76,9 @@ Para este projeto, foram selecionadas 6 características do dataset original:
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**Diagrama visual:** `neural-network-image.jpg`
+**Diagrama visual:** 
+
+![neural-network-image](https://github.com/user-attachments/assets/b3543778-bd2a-4f5b-9d35-960bdd0f7357)
 
 ### Parâmetros de Treinamento
 - **Taxa de aprendizado (Learning Rate):** 0.01
